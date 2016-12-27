@@ -10,7 +10,4 @@ You will need [Leiningen][] 2.0.0 or above installed.
 
 ## Running
 
-
-## License
-
-Copyright © 2016 Cyrpt
+lein run
